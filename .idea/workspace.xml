@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="8fc0501c09d48684972822e531803fa5a204b1fa" />
+        <entry key="$PROJECT_DIR$" value="new_branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615747856227</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" saved(project2)&#10; background">
+      <created>1615748765241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615748765241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="14.03.21 first saved(project2)" />
     <MESSAGE value="14.03.21 second saved(project2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="14.03.21 second saved(project2)" />
+    <MESSAGE value=" saved(project2)&#10; background" />
+    <option name="LAST_COMMIT_MESSAGE" value=" saved(project2)&#10; background" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/project2$main.coverage" NAME="main Coverage Results" MODIFIED="1615495939370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
