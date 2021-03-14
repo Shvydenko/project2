@@ -15,6 +15,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="8fc0501c09d48684972822e531803fa5a204b1fa" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -24,6 +32,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1pcwmaYs0VFskvKBf8Ds8Rsoj18" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -81,11 +90,43 @@
       <workItem from="1615642601849" duration="4513000" />
       <workItem from="1615650243574" duration="1622000" />
       <workItem from="1615744800843" duration="10000" />
+      <workItem from="1615747662314" duration="324000" />
     </task>
+    <task id="LOCAL-00001" summary="14.03.21 first saved(project2)">
+      <created>1615747746602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615747746602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="14.03.21 second saved(project2)">
+      <created>1615747856227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615747856227</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="14.03.21 first saved(project2)" />
+    <MESSAGE value="14.03.21 second saved(project2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.03.21 second saved(project2)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/project2$main.coverage" NAME="main Coverage Results" MODIFIED="1615495939370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
