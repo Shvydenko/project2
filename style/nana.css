@@ -1,0 +1,8 @@
+.Nana{
+    width: 550px;
+    height: 150px;
+    background: darkgoldenrod;
+    border: 20px solid gold;
+    border-left-color: firebrick;
+    border-right-color: aqua ;
+}

@@ -1,0 +1,9 @@
+.another {
+    width: 400px;
+    height: 250px;
+    background: bisque;
+    /*overflow: auto;-->*/
+    padding: 50px 10px 20px 30px;
+    box-sizing: border-box;
+    margin-left:300px ;
+}
